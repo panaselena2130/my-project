@@ -1,3 +1,6 @@
 Feature text file
 
-Modifeded in new_branch.
+Modified in new_branch.
+
+Modified in local repository.
+
